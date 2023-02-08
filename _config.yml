@@ -110,9 +110,12 @@ author:
   location         : "Small town in Germany"
   email            :
   links:
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/heesun-joo-1734b0235"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://https://heesunjookr.github.io/"
+      url: "https://heesunjookr.github.io/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/heesunjookr"
@@ -123,6 +126,9 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/heesun-joo-1734b0235"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/heesunjoo.kr"
